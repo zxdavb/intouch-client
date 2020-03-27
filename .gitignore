@@ -1,7 +1,14 @@
-### local .gitignore file
-# zxdavb
+### local .gitignore file use by https://github.com/zxdavb
+
+!.gitignore
+
+tokens*
+tokens*.*
 
 *.json
+*.old
+*.out
+*.txt
 .vscode/*
 
 
